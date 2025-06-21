@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ekbageri.dk/sitemap.xml
